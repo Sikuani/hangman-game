@@ -1,0 +1,17 @@
+{
+  "name": "hangman",
+  "version": "1.0.0",
+  "engine": {
+    "node": "^18.14"
+  },
+  "type": "module",
+  "main": "index.js",
+  "author": "Manuel Pinzon",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sikuani/hangman-game.git"
+  },
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
