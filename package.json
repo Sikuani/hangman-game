@@ -12,6 +12,7 @@
     "url": "git+https://github.com/Sikuani/hangman-game.git"
   },
   "dependencies": {
+    "prompt-sync": "^4.2.0",
     "readline-sync": "^1.4.10"
   }
 }
