@@ -1,7 +1,7 @@
 import prompt from "readline-sync";
 import wordBank from "./word-bank.js";
 
-const maxAttempts = 6; // attempts allowed
+const maxAttempts = 7; // attempts allowed
 
 let wordToGuess = "";
 let attemptsLeft = "";
@@ -158,6 +158,5 @@ const displayHangman = () => {
   }
   console.log(str);
 };
-
 
 startGame();
